@@ -1,0 +1,6 @@
+{
+  "name": "لعبة الحياة",
+  "description": "لعبة حياة تفاعلية متطورة تعتمد بالكامل على النصوص والقرارات مدعومة بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
